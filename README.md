@@ -29,7 +29,7 @@
 ---
 
 ### Certifications
-* **AWS** Certified Machine Learning – Specialty
+* **AWS** Certified Machine Learning – Associate
 * **Deep Learning Specialization** (DeepLearning.AI)
 * **IBM** Machine Learning with Python
 
