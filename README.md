@@ -1,39 +1,72 @@
-# Hi, I'm Abbas | Gen AI Engineer & Researcher
-**Master’s in Data Analytics @ Clark University | AWS Machine Learning Specialist**
+# ⚡ ABBAS IBRAHIM | Gen AI Engineer & Researcher
+**Bridging the gap between Theoretical Research and Production-Grade Systems.**
 
-> *Transforming theoretical AI research into scalable, enterprise-grade systems.*
+`MS Data Analytics @ Clark University` • `AWS Machine Learning Specialist` • `IEEE Research & Innovation Lead` • `0→1 Builder`
 
----
-
-### Value-Driven AI Impact
-* **High-Throughput Scaling:** Engineering production-grade LLM applications using **Agentic Workflows (LangGraph)** and **vLLM** to bridge research and high-concurrency environments.
-* **Impact at Scale:** Slashed inference latency by **30%** and saved **$250K+ annually** by implementing Quantization (AWQ) and custom Hybrid-RAG architectures.
-* **Performance Optimization:** Accelerated user time-to-value by **50%** via foundation model fine-tuning (**PEFT/QLoRA**) and sub-second inference pipeline optimization.
+> I specialize in turning AI research into real-world systems. I focus on building high-performance Gen AI and Agentic applications that are reliable and cost-effective.
 
 ---
 
-### Research & "First Principles" Depth
-* **IEEE Leadership:** Currently serving as **Research & Innovation Coordinator** for the IEEE Student Branch at Clark University, leading a 5-member team in optimizing Intrusion Detection Systems via hybrid metaheuristic models.
-* **From-Scratch Engineering:** To master the mechanics of deep learning, I built a **Deep L-Layer Neural Network from scratch** using only NumPy—focusing on the internal math of backpropagation and optimization.
+### 🚀 Value-Driven AI Impact
+* **High-Throughput Scaling:** I build professional AI applications using **LangGraph** and **vLLM** to make sure models can handle many users at once.
+* **Impact at Scale:** I helped companies save **$250K+ per year** and made AI **30% faster** by using special techniques like Quantization (AWQ).
+* **Performance Optimization:** I made apps work **50% faster** for users by fine-tuning models (PEFT/QLoRA) so they respond in less than a second.
+
+
 
 ---
 
-### Technical Stack
+### 💻 Technical Stack
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Gen AI** | LLMs (GPT-OSS, DeepSeek-V3, Qwen 2.5, Llama 3), RAG (Multimodal, Graph), Agents, Fine-Tuning (QLoRA, PEFT), Inference (vLLM, llama.cpp), VLM (Qwen-VL, Pixtral, InternVL, LLaVA), Audio (Whisper, Kokoro TTS, Eleven Labs), Diffusion Models (SVD), OCR, Transformers. |
+| **Gen AI** | LLMs (GPT-OSS, DeepSeek-V3, Llama 3), RAG, Agents, Fine-Tuning, vLLM, VLM (Qwen-VL, LLaVA), Audio (Whisper, Eleven Labs), Diffusion, OCR. |
 | **Libraries** | LangChain, LangGraph, PyTorch, TensorFlow, Hugging Face, Scikit-learn, Neo4j, ChromaDB |
 | **Cloud & LLMOps** | AWS (SageMaker, Bedrock), LangSmith, Ragas, Docker, FastAPI, Streamlit, MLflow |
 | **Languages** | Python, SQL, R, Bash |
 
 ---
 
-### Certifications
+### 📂 Featured Architectural Builds
+
+#### [PaperEngine.ai](https://github.com/yourusername/paperengine) | AI Research Learning Assistant
+**The Challenge:** There are too many scientific papers for people to read and summarize manually.  
+**The Build:** I built an AI system using **LangGraph** that reads papers, checks its own facts, and answers questions.  
+**The Impact:** It made research **50% faster** for teams.
+
+
+
+#### [Compliance.ai](https://github.com/yourusername/compliance-ai) | AI Security & Compliance Auditor
+**The Challenge:** Checking if a company follows security rules is very slow and easy to mess up.  
+**The Build:** I used AI to read security rules and check if a system is safe in real-time.  
+**The Impact:** It made security audits **40% faster**.
+
+#### [NumPy-From-Scratch](https://github.com/yourusername/numpy-nn) | Deep L-Layer Neural Network
+**The Challenge:** To truly understand AI, you have to build it from the ground up without using shortcuts.  
+**The Build:** I built a deep neural network using **only NumPy** (math library). I coded the math for how the brain of the AI learns.  
+**The Impact:** I now deeply understand exactly how AI models work "under the hood."
+
+
+
+---
+
+### 🔬 Current Research Focus
+I am the **Research & Innovation Coordinator at IEEE**. I lead a 5-member team using smart math (metaheuristic models) to optimize Intrusion Detection System. We are building better ways to keep internet networks safe.
+
+---
+
+### 📜 Certifications
 * **AWS** Certified Machine Learning – Associate
 * **Deep Learning Specialization** (DeepLearning.AI)
 * **IBM** Machine Learning with Python
 
 ---
 
-### Let's Connect
-[LinkedIn](https://www.linkedin.com/in/abbasi0608/) | [Portfolio Website](wip) | [Email](mailto:abbasibrahim1207@gmail.com)
+### 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/abbasi0608/) | [Portfolio Website](https://yourusername.github.io) | [Email](mailto:abbasibrahim1207@gmail.com)
+
+---
+
+### 🎮 Behind the Code (Hobbies)
+* **Cricket:** When I am not building AI, you will find me on the field playing cricket.
+* **Video Games:** I love **Minecraft** and RPG games like **Assassin's Creed**. I think they are masterpieces. I can spend 18 hours straight exploring how their worlds are built.
+* **Movies & Series:** I also enjoy watching movies and TV series to relax and unwind.
