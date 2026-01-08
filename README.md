@@ -33,7 +33,7 @@
 **The Build:** I built an AI system using **LangGraph** that reads papers, checks its own facts, and answers questions.  
 **The Impact:** It made research **50% faster** for teams.
 
-#### [NumPy-From-Scratch](/Deep-L-Layer-Neural-Network-From-Scratch) | Deep L-Layer Neural Network
+#### [NumPy-From-Scratch](github/Deep-L-Layer-Neural-Network-From-Scratch) | Deep L-Layer Neural Network
 **The Challenge:** To truly understand AI, you have to build it from the ground up without using shortcuts.  
 **The Build:** I built a deep neural network using **only NumPy** (math library). I coded the math for how the brain of the AI learns.  
 **The Impact:** I now deeply understand exactly how AI models work "under the hood."
