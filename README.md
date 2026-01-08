@@ -28,7 +28,7 @@
 
 ### 📂 Featured Architectural Builds
 
-#### [PaperEngine.ai](/PaperEngine.ai) | AI Research Learning Assistant
+#### [PaperEngine.ai](https://github.com/Abbasi06/PaperEngine.ai) | AI Research Learning Assistant
 **The Challenge:** There are too many scientific papers for people to read and summarize manually.  
 **The Build:** I built an AI system using **LangGraph** that reads papers, checks its own facts, and answers questions.  
 **The Impact:** It made research **50% faster** for teams.
