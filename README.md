@@ -1,9 +1,46 @@
-# ⚡ ABBAS IBRAHIM | Gen AI Engineer & Researcher
-**Bridging the gap between Theoretical Research and Production-Grade Systems.**
+<div align="left">
+  <h1> Abbas Ibrahim | AI/ML Engineer & Researcher</h1>
+  <a href="https://github.com/Abbasi06">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=false&vCenter=false&width=800&lines=Turning+Research+into+Production;Architecting+for+Scale;Architecting+Multi-Agent+GenAI;Distributed+Fine-Tuning+Workflows;Scaling+LLM+Inference;Distributed+CI%2FCD+Pipelines;Minimizing+Inference+Latency;Transparent+AI+Governance;Automating+Model+Retraining;Zero-Trust+Compliance" alt="Typing SVG" />
+  </a>
+</div>
 
-`MS Data Analytics @ Clark University` • `AWS Machine Learning Specialist` • `IEEE Research & Innovation Lead` • `0→1 Builder`
+> `MS Data Analytics @ Clark University` • `AWS Machine Learning Specialist` • `IEEE Research & Innovation Lead` • `0→1 Builder`
 
-> I specialize in turning AI research into real-world systems. I focus on building high-performance Gen AI and Agentic applications that are reliable and cost-effective.
+<div align="center">
+  
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@abbasi524915)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abbasi0608)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasibrahim1207@gmail.com)
+
+</div>
+
+### 💡 The TL;DR
+
+- 🔭 **I’m currently working on:** An autonomous Healthcare Agent utilizing LangGraph, Neo4j, and Docker, and refining `atreya.ai`.
+- 🌱 **I’m currently learning:** Distributed Systems, CUDA, C++, AI Inference Optimization, and advanced Agent/RAG pipelines.
+- 📝 **I started writing tech blog at:** [Substack](https://substack.com/@abbasi524915), where I'm currently publishing a deep-dive series titled *"Weights Quantization 101"*.
+- 🤝 **I’m looking to collaborate on:** Open-source LLMOps tools, inference optimization, and complex agentic architectures.
+- ⚡ **When I'm offline:** You'll usually find me out on the field playing cricket or relaxing with video games. I love playing Minecraft (find me at `@abbasi0608`) and RPGs like Assassin's Creed.
+---
+### 💻 The Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,r,bash,aws,azure,docker,kubernetes,postgres,mysql,mongodb,redis,kafka,pytorch,tensorflow,fastapi,git,githubactions,prometheus,grafana&perline=10" alt="Tech Stack" />
+  </a>
+</div>
+
+---
+
+<div align = "center">
+  
+![](https://github-readme-stats.vercel.app/api?username=Abbasi06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abbasi06&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abbasi06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 ---
 
@@ -12,20 +49,7 @@
 * **Impact at Scale:** I helped companies save **$250K+ per year** and made AI **30% faster** by using special techniques like Quantization (AWQ).
 * **Performance Optimization:** I made apps work **50% faster** for users by fine-tuning models (PEFT/QLoRA) so they respond in less than a second.
 
-
-
 ---
-
-### 💻 Technical Stack
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Gen AI** | LLMs (GPT-OSS, DeepSeek-V3, Llama 3), RAG, Agents, Fine-Tuning, vLLM, VLM (Qwen-VL, LLaVA), Audio (Whisper, Eleven Labs), Diffusion, OCR. |
-| **Libraries** | LangChain, LangGraph, PyTorch, TensorFlow, Hugging Face, Scikit-learn, Neo4j, ChromaDB |
-| **Cloud & LLMOps** | AWS (SageMaker, Bedrock), LangSmith, Ragas, Docker, FastAPI, Streamlit, MLflow |
-| **Languages** | Python, SQL, R, Bash |
-
----
-
 ### 📂 Featured Architectural Builds
 
 #### [PaperEngine.ai](https://github.com/Abbasi06/PaperEngine.ai) | AI Research Learning Assistant
@@ -41,7 +65,7 @@
 ---
 
 ### 🔬 Current Research Focus
-I am the **Research & Innovation Coordinator at IEEE**. I lead a 5-member team using smart math (metaheuristic models) to optimize Intrusion Detection System. We are building better ways to keep internet networks safe.
+I am the **Research & Innovation Coordinator at IEEE**. I lead a 5-member team using smart math (metaheuristic models) to optimize Intrusion Detection System and Identifying the impact of surgical workforce characteristics on patient's mortality.
 
 ---
 
@@ -52,12 +76,11 @@ I am the **Research & Innovation Coordinator at IEEE**. I lead a 5-member team u
 
 ---
 
-### 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/abbasi0608/) | [Portfolio Website](https://yourusername.github.io) | [Email](mailto:abbasibrahim1207@gmail.com)
+<div align="center">
+  
+##### *✍️ Random Dev Quote*
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+</div>
 
-### 🎮 Behind the Code (Hobbies)
-* **Cricket:** When I am not building AI, you will find me on the field playing cricket.
-* **Video Games:** I love **Minecraft** and RPG games like **Assassin's Creed**. I think they are masterpieces. I can spend 18 hours straight exploring how their worlds are built.
-* **Movies & Series:** I also enjoy watching movies and TV series to relax and unwind.
+
